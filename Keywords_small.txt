@@ -1,0 +1,14 @@
+string
+text in python
+int
+function to turn strings into integer
+float
+function to turn strings into floats (numbers with decimal parts)
+list
+a datatype used to store multiple values
+for
+keyword used to repeat a certain number of times
+while
+keyword used to repeat until a condition is met
+if
+keyword used in selection between 2 or more options
